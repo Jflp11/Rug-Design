@@ -13,6 +13,10 @@ Jean-Francois Lantin Pillete: Ingeniero agrónomo con experiencia en el mercado 
 
 Ezequiel Malnis: Ingeniero Químico, con varios años de experiencia en mapeo de procesos y mejora continua, actualmente trabajo como Especialista en Gestión en Acerbrag, una empresa dedicada a la fabricación de aceros para la construcción. Siempre me dio mucha curiosidad el mundo del desarrollo web, en especial lo que se refiere a diseño y front-end, por lo que inicié el curso de Full Stack en Digital House para entrar un poco en este mundo.
 
+Ioel Aizensztad: Trabajo como SSR Business Processing Specialist en Assurant, estudio Marketing en la UBA y actualmente estoy desarrollando mis habilidades de programación Full Stack en Digital House.
+
+Soy Antonela Carreras: Consultor senior con mas de 3 anos de experiencia en servicios financiera-Titulado de manager en gestion de bancos y empresas Financieras. Actualmente trabajando en una empresa, con objetivos de dar los primeros pasos en el Area Digital.
+
 
 REFERENCIAS PARA INSPIRACIÓN:
 POR PRODUCTO OFRECIDO:
